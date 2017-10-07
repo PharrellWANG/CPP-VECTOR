@@ -151,3 +151,4 @@ fabric.properties
 *.cubin
 *.fatbin
 
+.idea/
